@@ -8,7 +8,7 @@ I am currently pursuing my studies at university, where I am expanding my knowle
 I enjoy tackling new challenges, learning new technologies, and continuously improving my development practices. As a developer, I strive to write clean, efficient, and maintainable code, with an emphasis on creating user-friendly and innovative applications.
 
 Feel free to connect with me if you'd like to collaborate or discuss tech!
-[![Follow me on GitHub](https://img.shields.io/github/followers/Marko25043?style=for-the-badge&logo=github&label=Follow)](https://github.com/Marko25043)
+[![Follow me on GitHub](https://img.shields.io/github/followers/marko-udovcic?style=for-the-badge&logo=github&label=Follow)](https://github.com/Marko25043)
 
 
 # 💻 Tech Stack:
@@ -30,7 +30,7 @@ Feel free to connect with me if you'd like to collaborate or discuss tech!
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 
 # 📊 GitHub Stats:
-![Marko GitHub statistika](https://github-readme-stats.vercel.app/api?username=Marko25043&show_icons=true&theme=react)
+![Marko GitHub statistika](https://github-readme-stats.vercel.app/api?username=marko-udovcic&show_icons=true&theme=react)
 
 
 <div align="center">
