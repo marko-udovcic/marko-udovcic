@@ -3,12 +3,12 @@
 # 💫 About Me:
 **My name is Marko Udovčić, and I am a Junior Full-Stack Developer with a strong passion for building dynamic and scalable web applications.**
 
-I am currently pursuing my studies at university, where I am expanding my knowledge and refining my skills in software development. My focus is on modern web technologies, and I am particularly skilled in <span style="color:#61dafb"><strong>React</strong></span>, <strong>Spring Boot</strong>, and <strong>PostgreSQL</strong>.
+I am currently pursuing my studies at university, where I am expanding my knowledge and refining my skills in software development. My focus is on modern web technologies, and I am particularly skilled in **React**, **Spring Boot**, and **PostgreSQL**.
 
 I enjoy tackling new challenges, learning new technologies, and continuously improving my development practices. As a developer, I strive to write clean, efficient, and maintainable code, with an emphasis on creating user-friendly and innovative applications.
 
 Feel free to connect with me if you'd like to collaborate or discuss tech!
-[![Follow me on GitHub](https://img.shields.io/github/followers/marko-udovcic?style=for-the-badge&logo=github&label=Follow)](https://github.com/Marko25043)
+[![Follow me on GitHub](https://img.shields.io/github/followers/marko-udovcic?style=for-the-badge&logo=github&label=Follow)](https://github.com/marko-udovcic)
 
 
 # 💻 Tech Stack:
