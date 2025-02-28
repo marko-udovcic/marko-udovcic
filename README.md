@@ -1,7 +1,8 @@
-![Banner](github-header-image.png)
+![Image](https://github.com/user-attachments/assets/8c0ac977-b429-4fac-adbc-665e7679c44a)
 
-# 💫 About Me:
-
+# <div align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&color=E9E8E8&center=false&vCenter=true&random=false&width=500&height=50&lines=About+me+:" alt="About me" /></a>
+</div>
 I am a passionate Full-Stack Developer currently studying at the University of Split, Croatia. My focus is on Java(Springboot) and React.js, with a strong interest in building dynamic and efficient web applications. I am constantly striving to learn as much as possible and expand my knowledge in various technologies. 
 
 I enjoy coding and experimenting with different tools, languages, and frameworks. My goal is to deepen my understanding of the entire development process and continuously improve my skills. 
@@ -12,7 +13,9 @@ Feel free to connect with me if you'd like to collaborate or discuss tech!
 [![Follow me on GitHub](https://img.shields.io/github/followers/marko-udovcic?style=for-the-badge&logo=github&label=Follow)](https://github.com/marko-udovcic)
 
 
-# 💻 Tech Stack:
+# <div align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&color=E9E8E8&center=false&vCenter=true&random=false&width=500&height=50&lines=Tech+Stack+:" alt="Tech stack" /></a>
+</div>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
@@ -30,7 +33,10 @@ Feel free to connect with me if you'd like to collaborate or discuss tech!
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 
-# 📊 GitHub Stats:
+# <div align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&color=E9E8E8&center=false&vCenter=true&random=false&width=500&height=50&lines=GitHub+Stats+:" alt="Github stats" /></a>
+</div>
+
 ![Marko GitHub statistika](https://github-readme-stats.vercel.app/api?username=marko-udovcic&show_icons=true&theme=react)
 
 
